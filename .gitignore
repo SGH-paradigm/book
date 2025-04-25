@@ -1,7 +1,0 @@
-_site/
-.DS_Store
-*.swp
-*.log
-*.tmp
-.jekyll-cache/
-.sass-cache/
