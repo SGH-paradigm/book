@@ -1,0 +1,22 @@
+title: "Science Generalization Hypothesis"
+description: "A book on the unification of science through new interdisciplinary theories."
+baseurl: "/book"
+url: "https://sgh-paradigm.github.io"
+theme: jekyll-theme-slate # You can change the theme if needed
+
+# Define the navigation links
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Opening Section"
+    url: "/book/opening"
+  - title: "Philosophy"
+    url: "/book/philosophy"
+  - title: "Mathematics"
+    url: "/book/mathematics"
+  - title: "Physics"
+    url: "/book/physics"
+  - title: "Results"
+    url: "/book/results"
+  - title: "Conclusion"
+    url: "/book/conclusion"
